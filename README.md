@@ -1,5 +1,9 @@
 ## 本科华五，曾赴美qs50读博，某兄弟院校副教授，校园门卫亭女性主理人，为防止炸号的备份平台，是本人。
 
+![PROOF1](assets/1.jpg)
+![PROOF2](assets/2.jpg)
+![PROOF3](assets/3.jpg)
+
 <!--
 **UniSecurityGuard/UniSecurityGuard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
